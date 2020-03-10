@@ -1,0 +1,5 @@
+projectKey=sonardemo1
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/sonardemo1
+ceTaskId=AXDC5q_d9ZiFlSRPVBKk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXDC5q_d9ZiFlSRPVBKk
